@@ -48,3 +48,17 @@ section {
   font-size: 8px;
   margin-bottom: 0px;
 }
+.tabel {
+  padding: 3rem;
+}
+
+.next {
+  float: right;
+  padding-bottom: 2rem;
+  margin-right: 1rem;
+}
+.back {
+  float: left;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+}
